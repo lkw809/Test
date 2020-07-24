@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of project is to …
+The goal of project is to interface R with GitHub!
 
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
